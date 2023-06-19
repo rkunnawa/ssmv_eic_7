@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rkunnawa/ssmv_eic/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rkunnawa/ssmv_eic_7/HEAD)
 
 School of Science and Math summer workshop for metro Nashville high school students - 2023 
 "Lets Smash the Proton"
